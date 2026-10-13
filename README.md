@@ -37,6 +37,6 @@ Berdasarkan hasil pengujian laboratorium, output LED terbukti 100% akurat menyal
 
 ## 📺 Video Demonstrasi Pengujian Alat
 Pembuktian fungsional sikit saat menerima kombinasi input sakelar dan menampilkan angka desimal real-time pada 7-segment serta nyala LED dapat diakses di sini:
-👉 [Tonton Video Pengujian Fisik Seven Segment](TEMPELKAN_LINK_GOOGLE_DRIVE_ANDA_DI_SINI)
+👉 [Tonton Video Pengujian Fisik Seven Segment](https://drive.google.com/file/d/1HdCygxNffUzfEvwIyZpznlTFqccyV-oF/view?usp=sharing)
 
 *File mentah simulasi sirkuit (project_sislog - Copy (2) - Copy.ms14) tersedia di dalam repositori ini untuk pengujian interaktif langsung.*
